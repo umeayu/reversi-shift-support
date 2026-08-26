@@ -1,5 +1,18 @@
 [
   {
+  "id": "2026-08-26-online-announcements",
+  "title": "お知らせ機能をアップデートしました",
+  "date": "2026.08.26",
+  "body": "REVERSI SHIFTのお知らせをオンラインで更新できるようになりました。",
+  "icon": "celebration",
+  "type": "update",
+  "priority": "normal",
+  "publishFrom": "2026-08-26T00:00:00+09:00",
+  "publishUntil": null,
+  "isNew": true,
+  "pinned": false
+  }
+  {
   "title": "お知らせ機能をアップデートしました",
   "date": "2026.08.26",
   "body": "REVERSI SHIFTのお知らせをオンラインで更新できるようになりました。",
