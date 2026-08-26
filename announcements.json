@@ -1,43 +1,54 @@
 [
   {
-  "id": "2026-08-26-online-announcements",
-  "title": "お知らせ機能をアップデートしました",
-  "date": "2026.08.26",
-  "body": "REVERSI SHIFTのお知らせをオンラインで更新できるようになりました。",
-  "icon": "celebration",
-  "type": "update",
-  "priority": "normal",
-  "publishFrom": "2026-08-26T00:00:00+09:00",
-  "publishUntil": null,
-  "isNew": true,
-  "pinned": false
-  }
-  {
-  "title": "お知らせ機能をアップデートしました",
-  "date": "2026.08.26",
-  "body": "REVERSI SHIFTのお知らせをオンラインで更新できるようになりました。",
-  "icon": "celebration",
-  "isNew": true
+    "id": "2026-08-26-online-announcements",
+    "title": "お知らせ機能をアップデートしました",
+    "date": "2026.08.26",
+    "body": "REVERSI SHIFTのお知らせをオンラインで更新できるようになりました。",
+    "icon": "celebration",
+    "type": "update",
+    "priority": "normal",
+    "publishFrom": "2026-08-26T00:00:00+09:00",
+    "publishUntil": null,
+    "isNew": true,
+    "pinned": false
   },
   {
+    "id": "2026-08-23-stats",
     "title": "戦績機能を追加しました",
     "date": "2026.08.23",
     "body": "CPU対戦の勝ち・負け・引き分け・勝率を確認できるようになりました。LEVELごと、通常盤面・イレギュラー盤面ごとに戦績を記録します。",
     "icon": "bar_chart",
-    "isNew": true
+    "type": "update",
+    "priority": "normal",
+    "publishFrom": "2026-08-23T00:00:00+09:00",
+    "publishUntil": null,
+    "isNew": true,
+    "pinned": false
   },
   {
+    "id": "2026-08-23-random-board",
     "title": "ランダム盤面に対応しました",
     "date": "2026.08.23",
     "body": "イレギュラー盤面でランダムな使用不可マス配置を楽しめるようになりました。ゲームが極端に短くならないよう、盤面品質の自動チェックも行っています。",
     "icon": "casino",
-    "isNew": true
+    "type": "update",
+    "priority": "normal",
+    "publishFrom": "2026-08-23T00:00:00+09:00",
+    "publishUntil": null,
+    "isNew": true,
+    "pinned": false
   },
   {
+    "id": "2026-08-22-welcome",
     "title": "REVERSI SHIFTへようこそ",
     "date": "2026.08.22",
     "body": "通常のリバーシだけでなく、特殊な盤面でも対戦できるリバーシアプリです。CPU対戦と2人対戦の両方を楽しめます。",
     "icon": "sports_esports",
-    "isNew": false
+    "type": "notice",
+    "priority": "normal",
+    "publishFrom": "2026-08-22T00:00:00+09:00",
+    "publishUntil": null,
+    "isNew": false,
+    "pinned": false
   }
 ]
