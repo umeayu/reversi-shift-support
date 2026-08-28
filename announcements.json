@@ -1,13 +1,13 @@
 [
   {
-    "id": "2026-08-26-online-announcements",
-    "title": "お知らせ機能をアップデートしました",
-    "date": "2026.08.26",
-    "body": "REVERSI SHIFTのお知らせをオンラインで更新できるようになりました。",
+    "id": "2026-08-28-online-announcements",
+    "title": "アプリ機能のアップデートを行いました。",
+    "date": "2026.08.28",
+    "body": "ゲーム終了後、盤面が即閉じる動作に猶予を持たせ、５秒間は盤面が表示される仕様にしました。なお、ゲーム終了後、盤面をタップすることで即結果画面に遷移できます。",
     "icon": "celebration",
     "type": "update",
     "priority": "normal",
-    "publishFrom": "2026-08-26T00:00:00+09:00",
+    "publishFrom": "2026-08-28T00:00:00+09:00",
     "publishUntil": null,
     "isNew": true,
     "pinned": false
@@ -22,7 +22,7 @@
     "priority": "normal",
     "publishFrom": "2026-08-23T00:00:00+09:00",
     "publishUntil": null,
-    "isNew": true,
+    "isNew": false,
     "pinned": false
   },
   {
@@ -35,7 +35,7 @@
     "priority": "normal",
     "publishFrom": "2026-08-23T00:00:00+09:00",
     "publishUntil": null,
-    "isNew": true,
+    "isNew": false,
     "pinned": false
   },
   {
